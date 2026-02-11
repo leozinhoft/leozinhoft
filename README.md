@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<a href="https://github.com/Leozinhoft">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozinhoft&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leozinhoft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/leozinhoft">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozinhoft&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leozinhoft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
